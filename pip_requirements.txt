@@ -1,6 +1,7 @@
 joblib
 regex
 jedi>=0.10
+notebook
 stable-baselines3[extra]
 box2d
 box2d-kengz
