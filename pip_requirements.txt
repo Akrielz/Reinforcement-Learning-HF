@@ -1,3 +1,6 @@
+joblib
+regex
+jedi>=0.10
 stable-baselines3[extra]
 box2d
 box2d-kengz
