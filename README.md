@@ -14,6 +14,13 @@ conda activate <ENV_NAME>
 sudo ./env_setup.sh
 ```
 
+Or you can install the same conda environment from the `environment.yml` file:
+
+```bash
+conda env create -f conda_environment.yml -n <ENV_NAME>
+conda activate <ENV_NAME>
+```
+
 ## Unit 1
 
 Unit 1 is about the basics of Reinforcement Learning, applied on the game
