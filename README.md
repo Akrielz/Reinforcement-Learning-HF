@@ -5,7 +5,8 @@ Learning.
 
 ## Installation
 
-To install the dependencies, run the following command:
+To install the dependencies, run the following command, where <ENV_NAME> is the
+name of the environment you want to create:
 
 ```bash
 conda env create -n <ENV_NAME> python=3.8
