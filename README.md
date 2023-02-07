@@ -8,8 +8,8 @@ Learning.
 To install the dependencies, run the following command:
 
 ```bash
-conda env create -n <> python=3.8
-conda activate <>
+conda env create -n <ENV_NAME> python=3.8
+conda activate <ENV_NAME>
 sudo ./env_setup.sh
 ```
 
