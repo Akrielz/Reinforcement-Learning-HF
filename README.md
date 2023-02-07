@@ -21,4 +21,5 @@ sticks as possible.
 
 Here is a video with the AI playing the game:
 
-https://huggingface.co/datasets/huggingface-deep-rl-course/course-images/resolve/main/en/notebooks/unit-bonus1/huggy.mp4
+https://user-images.githubusercontent.com/34741250/217324570-1f4d94cf-de0a-4941-b494-b4825698a821.mp4
+
