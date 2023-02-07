@@ -3,6 +3,16 @@
 This repository contains the code for the Hugging Face course on Reinforcement
 Learning.
 
+## Installation
+
+To install the dependencies, run the following command:
+
+```bash
+conda env create -n <> python=3.8
+conda activate <>
+sudo ./env_setup.sh
+```
+
 ## Unit 1
 
 Unit 1 is about the basics of Reinforcement Learning, applied on the game
