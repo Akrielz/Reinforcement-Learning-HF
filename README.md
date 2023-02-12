@@ -72,6 +72,10 @@ into a hole.
 
 Here is a video with the AI playing Taxi-v3:
 
+https://user-images.githubusercontent.com/34741250/218331070-2c3d8b24-68c3-4bf5-980f-ae676792e88c.mp4
 
 Here is a video with the AI playing Frozen Lake:
+
+https://user-images.githubusercontent.com/34741250/218331075-a97305cc-fe3b-4ed3-94b3-343c91f60eff.mp4
+
 
