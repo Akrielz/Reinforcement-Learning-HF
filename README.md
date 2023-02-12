@@ -5,12 +5,12 @@ Learning.
 
 ## Course
 
-The course is available on the Hugging Face website:
+The course is available on the Hugging Face website:  
 https://huggingface.co/deep-rl-course/unit0/introduction
 
 ## Progress:
 
-You can check my progress on the course here:
+You can check my progress on the course here:  
 https://huggingface.co/spaces/ThomasSimonini/Check-my-progress-Deep-RL-Course
 
 With the username "Akriel".
