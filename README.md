@@ -15,12 +15,12 @@ https://huggingface.co/spaces/ThomasSimonini/Check-my-progress-Deep-RL-Course
 
 With the username "Akriel".
 
-| passed | unit   | env                         | mean    | std   | Link                                                                 |
-|--------|--------|-----------------------------|---------|-------|----------------------------------------------------------------------|
-| ✅      | Unit 1 | LunarLander-v2              | 242.759 | 15.02 | [link](https://huggingface.co/Akriel/MLP-Lunar-Lander )              |
-| ✅      | Unit 2 | Taxi-v3                     | 7.56    | 2.71  | [link](https://huggingface.co/Akriel/q-Taxi-v3)                      |
-| ✅      | Unit 2 | FrozenLake-v0               | 1.00    | 0.00  | [link](https://huggingface.co/Akriel/q-FrozenLake-v1-4x4-noSlippery) |
-| ❌      | Unit 3 | SpaceInvadersNoFrameskip-v4 |         |       |                                                                      |
+| passed | unit   | env                         | mean   | std   | Link                                                                 |
+|--------|--------|-----------------------------|--------|-------|----------------------------------------------------------------------|
+| ✅      | Unit 1 | LunarLander-v2              | 257.78 | 15.02 | [link](https://huggingface.co/Akriel/MLP-Lunar-Lander )              |
+| ✅      | Unit 2 | Taxi-v3                     | 7.56   | 2.71  | [link](https://huggingface.co/Akriel/q-Taxi-v3)                      |
+| ✅      | Unit 2 | FrozenLake-v0               | 1.00   | 0.00  | [link](https://huggingface.co/Akriel/q-FrozenLake-v1-4x4-noSlippery) |
+| ❌      | Unit 3 | SpaceInvadersNoFrameskip-v4 |        |       |                                                                      |
 
 
 [comment]: <> (make a list with 8 units)
