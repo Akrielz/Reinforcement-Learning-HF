@@ -23,8 +23,6 @@ With the username "Akriel".
 | ❌      | Unit 3 | SpaceInvadersNoFrameskip-v4 |        |       |                                                                      |
 
 
-[comment]: <> (make a list with 8 units)
-
 ## Installation
 
 To install the dependencies, run the following command, where <ENV_NAME> is the
