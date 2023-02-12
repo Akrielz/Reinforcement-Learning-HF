@@ -3,6 +3,27 @@
 This repository contains the code for the Hugging Face course on Reinforcement
 Learning.
 
+## Course
+
+The course is available on the Hugging Face website:
+https://huggingface.co/deep-rl-course/unit0/introduction
+
+## Progress:
+
+You can check my progress on the course here:
+https://huggingface.co/spaces/ThomasSimonini/Check-my-progress-Deep-RL-Course
+
+With the username "Akriel".
+
+| passed | unit   | env                         | results |
+|--------|--------|-----------------------------|---------|
+| ✅      | Unit 1 | LunarLander-v2              | 242.759 |
+| ✅      | Unit 2 | Taxi-v3                     | 4.85    |
+| ❌      | Unit 3 | SpaceInvadersNoFrameskip-v4 |         |
+
+
+[comment]: <> (make a list with 8 units)
+
 ## Installation
 
 To install the dependencies, run the following command, where <ENV_NAME> is the
@@ -33,11 +54,24 @@ https://user-images.githubusercontent.com/34741250/217315000-ea7c8040-5fb5-4c7a-
 
 ## Unit 1 Bonus
 
-Unit 1 Bonus is about getting to use the environemnt from ML-Agents to train
+Unit 1 Bonus is about getting to use the environment from ML-Agents to train
 an agent to play the game "Huggy the Dog", which has as goal to collect as many
 sticks as possible.
 
 Here is a video with the AI playing the game:
 
 https://user-images.githubusercontent.com/34741250/217324570-1f4d94cf-de0a-4941-b494-b4825698a821.mp4
+
+## Unit 2 
+
+Unit 2 is about learning how Q-Learning works, and how to use it to train an
+agent to play the game Taxi-v3, which has as goal to pick up a passenger at
+one location and drop them off at another. Similarly, we are using it on the
+game Frozen Lake, which has as goal to reach the goal state without falling
+into a hole.
+
+Here is a video with the AI playing Taxi-v3:
+
+
+Here is a video with the AI playing Frozen Lake:
 
