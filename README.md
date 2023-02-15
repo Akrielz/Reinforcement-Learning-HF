@@ -15,12 +15,12 @@ https://huggingface.co/spaces/ThomasSimonini/Check-my-progress-Deep-RL-Course
 
 With the username "Akriel".
 
-| passed | unit   | env                         | mean   | std   | Link                                                                 |
-|--------|--------|-----------------------------|--------|-------|----------------------------------------------------------------------|
-| ✅      | Unit 1 | LunarLander-v2              | 257.78 | 15.02 | [link](https://huggingface.co/Akriel/MLP-Lunar-Lander )              |
-| ✅      | Unit 2 | Taxi-v3                     | 7.56   | 2.71  | [link](https://huggingface.co/Akriel/q-Taxi-v3)                      |
-| ✅      | Unit 2 | FrozenLake                  | 1.00   | 0.00  | [link](https://huggingface.co/Akriel/q-FrozenLake-v1-4x4-noSlippery) |
-| ❌      | Unit 3 | SpaceInvadersNoFrameskip-v4 |        |       |                                                                      |
+| passed | unit   | env                         | mean   | std    | Link                                                                  |
+|--------|--------|-----------------------------|--------|--------|-----------------------------------------------------------------------|
+| ✅      | Unit 1 | LunarLander-v2              | 257.78 | 15.02  | [link](https://huggingface.co/Akriel/MLP-Lunar-Lander )               |
+| ✅      | Unit 2 | Taxi-v3                     | 7.56   | 2.71   | [link](https://huggingface.co/Akriel/q-Taxi-v3)                       |
+| ✅      | Unit 2 | FrozenLake                  | 1.00   | 0.00   | [link](https://huggingface.co/Akriel/q-FrozenLake-v1-4x4-noSlippery)  |
+| ✅      | Unit 3 | SpaceInvadersNoFrameskip-v4 | 528.50 | 161.90 | [link](https://huggingface.co/Akriel/dqn-SpaceInvadersNoFrameskip-v4) |
 
 
 ## Installation
@@ -77,4 +77,10 @@ Here is a video with the AI playing Frozen Lake:
 
 https://user-images.githubusercontent.com/34741250/218331075-a97305cc-fe3b-4ed3-94b3-343c91f60eff.mp4
 
+## Unit 3
+
+Unit 3 is about applying RL Zoo to train a DQM agent to play the game
+Space Invaders, which has as goal to shoot down as many aliens as possible.
+
+Here is a video with the AI playing the game:
 
