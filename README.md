@@ -79,7 +79,7 @@ https://user-images.githubusercontent.com/34741250/218331075-a97305cc-fe3b-4ed3-
 
 ## Unit 3
 
-Unit 3 is about applying RL Zoo to train a DQM agent to play the game
+Unit 3 is about applying RL Zoo to train a DQN agent to play the game
 Space Invaders, which has as goal to shoot down as many aliens as possible.
 
 Here is a video with the AI playing the game:
