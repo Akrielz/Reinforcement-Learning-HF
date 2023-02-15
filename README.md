@@ -84,3 +84,7 @@ Space Invaders, which has as goal to shoot down as many aliens as possible.
 
 Here is a video with the AI playing the game:
 
+https://user-images.githubusercontent.com/34741250/219143123-6f6a6161-2095-4827-9eb8-1b2ce1a05ce4.mp4
+
+
+
