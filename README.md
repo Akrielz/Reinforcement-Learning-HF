@@ -10,10 +10,16 @@ https://huggingface.co/deep-rl-course/unit0/introduction
 
 ## Progress:
 
+### Everything is done!
+Check my certificate [here](https://github.com/Akrielz/Reinforcement-Learning-HF/blob/main/certificate.pdf)
+
+
 You can check my progress on the course here:  
 https://huggingface.co/spaces/ThomasSimonini/Check-my-progress-Deep-RL-Course
 
 With the username "Akriel".
+
+**Warning: The following table and documentation is not updated with all the models yet**
 
 | passed | unit   | env                         | mean   | std    | Link                                                                  |
 |--------|--------|-----------------------------|--------|--------|-----------------------------------------------------------------------|
